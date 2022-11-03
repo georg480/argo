@@ -37,3 +37,6 @@ Login to ArgoCD: https://argo-cd.readthedocs.io/en/stable/getting_started/#4-log
 
 
 ArgoCD Configuration: https://argo-cd.readthedocs.io/en/stable/operator-manual/declarative-setup/
+
+
+test vscode
